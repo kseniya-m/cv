@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1, h2
+{text-align: center;
+
+}
+
+h2 {text-align: left}
